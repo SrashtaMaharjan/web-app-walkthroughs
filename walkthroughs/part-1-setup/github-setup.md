@@ -25,7 +25,7 @@ Go to [GitHub](https://github.com/) and register for an account.
 
 ## Unlink the Original Repo
 
-When you ran the command `git clone https://github.com/jasonhan-vassar/step.git`,
+When you ran the command `git clone https://github.com/jasonhan-vassar/web-app-walkthroughs.git`,
 you downloaded the official repository to your worksapce.
 
 Right now, this repository still points to the original GitHub account instead of yours. To fix that, you're first going to remove the pointer to the original repo.
